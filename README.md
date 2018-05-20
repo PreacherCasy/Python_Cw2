@@ -14,7 +14,7 @@ Launch a code against a suggested classwork dataset:
 ```
 python Cw2_Malovichko.py -i classwork2.fasta -o Cw2_output.fasta
 ```
-The resulting file can be found in this repository. As we can see, most of the queries turned out to belong to viral, bacterial or fungal genomes which is consistent with declared property of the dataset (human blood metagenome). At the same time, the last contig seems to be dubious because of its perfect alignment on duckbill's genome assembly; however, this one might be either sequence or data provider's sick joke.
+The resulting file can be found in this repository. As we can see, most of the queries turned out to belong to viral, bacterial or fungal genomes which is consistent with declared property of the dataset (human blood metagenome). At the same time, the last contig seems to be dubious because of its perfect alignment on duckbill's genome assembly; however, this one might be either missequence or data provider's sick joke.
 
 ## Acknowledgements
 Eugene Bakin of Bioinformatics Institue for his Python crash course.
